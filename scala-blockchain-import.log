@@ -1,0 +1,11 @@
+2022-05-08 21:13:51.493	4648	INFO	logging	contrib/epee/src/mlog.cpp:273	New log categories: *:WARNING,net:FATAL,net.http:FATAL,net.ssl:FATAL,net.p2p:FATAL,net.cn:FATAL,global:INFO,verify:FATAL,serialization:FATAL,daemon.rpc.payment:ERROR,stacktrace:INFO,logging:INFO,msgwriter:INFO
+2022-05-08 21:13:51.493	4648	INFO	logging	contrib/epee/src/mlog.cpp:273	New log categories: *:WARNING,net:FATAL,net.http:FATAL,net.ssl:FATAL,net.p2p:FATAL,net.cn:FATAL,global:INFO,verify:FATAL,serialization:FATAL,daemon.rpc.payment:ERROR,stacktrace:INFO,logging:INFO,msgwriter:INFO,bcutil:INFO
+2022-05-08 21:13:51.584	4648	INFO	bcutil	src/blockchain_utilities/blockchain_import.cpp:676	Starting...
+2022-05-08 21:13:51.585	4648	INFO	bcutil	src/blockchain_utilities/blockchain_import.cpp:694	database: LMDB
+2022-05-08 21:13:51.587	4648	INFO	bcutil	src/blockchain_utilities/blockchain_import.cpp:695	verify:  true
+2022-05-08 21:13:51.587	4648	INFO	bcutil	src/blockchain_utilities/blockchain_import.cpp:699	batch:   true  batch size: 5000
+2022-05-08 21:13:51.587	4648	INFO	bcutil	src/blockchain_utilities/blockchain_import.cpp:705	resume:  true
+2022-05-08 21:13:51.588	4648	INFO	bcutil	src/blockchain_utilities/blockchain_import.cpp:706	nettype: mainnet
+2022-05-08 21:13:51.588	4648	INFO	bcutil	src/blockchain_utilities/blockchain_import.cpp:708	bootstrap file path: C:\ProgramData\scala\export\blockchain.raw
+2022-05-08 21:13:51.589	4648	INFO	bcutil	src/blockchain_utilities/blockchain_import.cpp:709	database path:       C:\ProgramData\scala
+2022-05-08 21:13:51.591	4648	INFO	global	src/checkpoints/checkpoints.cpp:203	Downloading checkpoints from IPFS might take a while...
